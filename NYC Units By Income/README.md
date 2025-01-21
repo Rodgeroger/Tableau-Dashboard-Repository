@@ -10,4 +10,4 @@ This dashboard provides visual insights into the number of units per postal code
 
 # Visualizations used
  - **Geographical Heatmap Of Units By Postal Code**: Includes boroughs, street and all units in postal code.
- - **Bar Graph Of Units**: includes color coded categorization of units into very low, low, middle, moderate and other income units. 
+ - **Bar Graph Of Units by Boroughs**: includes color coded categorization of units into very low, low, middle, moderate and other income units. 
