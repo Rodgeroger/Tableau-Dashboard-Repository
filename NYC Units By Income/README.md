@@ -1,1 +1,1 @@
-Tableau DashBoard: [NYC Units by Income](https://haproxy-traffic-splitter/views/THEONE/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Tableau DashBoard: [NYC Units by Income]([https://haproxy-traffic-splitter/views/THEONE/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/app/profile/rodrigo.isidro/viz/THEONE/Dashboard1#1))
