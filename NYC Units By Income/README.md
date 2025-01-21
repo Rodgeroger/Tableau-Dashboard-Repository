@@ -9,5 +9,5 @@ This project involved developing an interactive Tableau dashboard to visualize t
 This dashboard provides visual insights into the number of units per postal code and borough. It can aid in a larger project to that seeks to identify areas where more affordable units are needed, ensuring targeted efforts in the appropriate postal codes and boroughs.
 
 # Visualizations used
- - Geographical Heatmap of units by postal code: Includes boroughs, street and all units in postal code.
- - Bar graph of units: includes color coded categorization of units into very low, low, middle, moderate and other income units. 
+ - **Geographical Heatmap Of Units By Postal Code**: Includes boroughs, street and all units in postal code.
+ - **Bar Graph Of Units**: includes color coded categorization of units into very low, low, middle, moderate and other income units. 
