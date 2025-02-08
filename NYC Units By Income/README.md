@@ -1,6 +1,6 @@
-Tableau DashBoard: [NYC Units by Income](https://public.tableau.com/app/profile/rodrigo.isidro/viz/THEONE/Dashboard1#1)
+Tableau DashBoard: [NYC Units by Income](https://public.tableau.com/shared/N5KB5WCMN?:display_count=n&:origin=viz_share_link)
 
-![Dashboard 1](https://github.com/user-attachments/assets/c6c352a5-c931-430c-9885-81445ba90acd)
+![Dashboard 1 (5)](https://github.com/user-attachments/assets/74d05162-f79b-4023-9b70-5c4c4b447ef0)
 
 # Project Description
 
